@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\services\\category\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\services\\category\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\services\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\services\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\dtos\\product\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\dtos\\product\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|c:\\users\\lenovo\\downloads\\abohalalbackend\\abohalalbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\data\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\data\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\data\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\data\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\services\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\services\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\filesservices\\fileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\filesservices\\fileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\filesservices\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\filesservices\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\abohalalbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\abohalalbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\dtos\\user\\authenticateduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\dtos\\user\\authenticateduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\dtos\\user\\addregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\dtos\\user\\addregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\migrations\\20240229091653_addproductandcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\migrations\\20240229091653_addproductandcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\migrations\\20240216115257_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\migrations\\20240216115257_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\abohalalbackend\\migrations\\20240229091922_addproductandcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7321A1AA-AF0F-4100-8469-D9757FEF762D}|AboHalalBackend\\AboHalalBackend.csproj|solutionrelative:abohalalbackend\\migrations\\20240229091922_addproductandcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\Product\\GetProductDto.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Dtos\\Product\\GetProductDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\Product\\GetProductDto.cs",
+              "RelativeToolTip": "AboHalalBackend\\Dtos\\Product\\GetProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:18:13.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Dtos\\Product\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\Product\\ProductDto.cs",
+              "RelativeToolTip": "AboHalalBackend\\Dtos\\Product\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:37:24.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Models\\Category.cs",
+              "RelativeToolTip": "AboHalalBackend\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T07:56:33.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Models\\Product.cs",
+              "RelativeToolTip": "AboHalalBackend\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T07:57:39.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Models\\User.cs",
+              "RelativeToolTip": "AboHalalBackend\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T10:35:26.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Services\\Category\\CategoryService.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Services\\Category\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Services\\Category\\CategoryService.cs",
+              "RelativeToolTip": "AboHalalBackend\\Services\\Category\\CategoryService.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwFUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:06:37.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Services\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Services\\Product\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Services\\Product\\ProductService.cs",
+              "RelativeToolTip": "AboHalalBackend\\Services\\Product\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:27:01.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\Product\\AddProductDto.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Dtos\\Product\\AddProductDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\Product\\AddProductDto.cs",
+              "RelativeToolTip": "AboHalalBackend\\Dtos\\Product\\AddProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:21:18.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Program.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Program.cs",
+              "RelativeToolTip": "AboHalalBackend\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T10:54:02.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Data\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Data\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Data\\IAuthRepository.cs",
+              "RelativeToolTip": "AboHalalBackend\\Data\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T11:05:05.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AboHalalBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T10:47:04.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AboHalalBackend\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:00:15.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Data\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Data\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Data\\AuthRepository.cs",
+              "RelativeToolTip": "AboHalalBackend\\Data\\AuthRepository.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAUwHoAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T11:04:18.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileServices.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\FilesServices\\FileServices.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\FilesServices\\FileServices.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\FilesServices\\FileServices.cs",
+              "RelativeToolTip": "AboHalalBackend\\FilesServices\\FileServices.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAApwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:00:15.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Services\\Category\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Services\\Category\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Services\\Category\\ICategoryService.cs",
+              "RelativeToolTip": "AboHalalBackend\\Services\\Category\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:52:29.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AboHalalBackend\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:47:37.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\FilesServices\\IFileService.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\FilesServices\\IFileService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\FilesServices\\IFileService.cs",
+              "RelativeToolTip": "AboHalalBackend\\FilesServices\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:13:57.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboHalalBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\AboHalalBackend.csproj",
+              "RelativeDocumentMoniker": "AboHalalBackend\\AboHalalBackend.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\AboHalalBackend.csproj",
+              "RelativeToolTip": "AboHalalBackend\\AboHalalBackend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003627|",
+              "WhenOpened": "2024-02-16T10:34:51.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "AboHalalBackend\\Models\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T10:48:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthenticatedUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\User\\AuthenticatedUserDto.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Dtos\\User\\AuthenticatedUserDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\User\\AuthenticatedUserDto.cs",
+              "RelativeToolTip": "AboHalalBackend\\Dtos\\User\\AuthenticatedUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T10:51:35.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\User\\LoginDto.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Dtos\\User\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\User\\LoginDto.cs",
+              "RelativeToolTip": "AboHalalBackend\\Dtos\\User\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T10:52:01.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240229091922_AddProductAndcategories.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Migrations\\20240229091922_AddProductAndcategories.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Migrations\\20240229091922_AddProductAndcategories.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Migrations\\20240229091922_AddProductAndcategories.cs",
+              "RelativeToolTip": "AboHalalBackend\\Migrations\\20240229091922_AddProductAndcategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:27:00.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240229091653_AddProductAndcategory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Migrations\\20240229091653_AddProductAndcategory.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Migrations\\20240229091653_AddProductAndcategory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Migrations\\20240229091653_AddProductAndcategory.cs",
+              "RelativeToolTip": "AboHalalBackend\\Migrations\\20240229091653_AddProductAndcategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:16:54.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Data\\DataContext.cs",
+              "RelativeToolTip": "AboHalalBackend\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T10:41:46.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\User\\AddRegisterDto.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Dtos\\User\\AddRegisterDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Dtos\\User\\AddRegisterDto.cs",
+              "RelativeToolTip": "AboHalalBackend\\Dtos\\User\\AddRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T10:50:28.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240216115257_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Migrations\\20240216115257_initial.cs",
+              "RelativeDocumentMoniker": "AboHalalBackend\\Migrations\\20240216115257_initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\Migrations\\20240216115257_initial.cs",
+              "RelativeToolTip": "AboHalalBackend\\Migrations\\20240216115257_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T11:52:58.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "AboHalalBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\AboHalalBackend\\AboHalalBackend\\appsettings.json",
+              "RelativeToolTip": "AboHalalBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-16T10:52:38.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
